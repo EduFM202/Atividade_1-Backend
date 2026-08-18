@@ -1,4 +1,4 @@
-# 📝 Atividade 1 - A Nossa Missão: Lista 1 - Backend
+# 📝 $\color{yellow}{\text {Atividade 1 - A Nossa Missão: Lista 1 - Backend)}$
 
 💻 O que vocês deverão desenvolver:
 
